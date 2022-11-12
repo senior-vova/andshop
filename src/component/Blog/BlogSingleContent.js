@@ -20,7 +20,7 @@ const BlogSingleContent = () => {
           <div className="blog_single_widget">
             <div className="blog_single_date">
               <ul>
-                <li>Sep, 28, 2020 - By <a href="#!"> Anla Xolex</a></li>
+                <li>Sep, 28, 2020 - By <a href="#"> Anla Xolex</a></li>
               </ul>
             </div>
             <div className="blog_single_first_Widget">
@@ -102,10 +102,10 @@ const BlogSingleContent = () => {
             </div>
             <div className="single_categoris_bottom">
               <ul>
-                <li><a href="#!">Fashion</a></li>
-                <li><a href="#!">Style</a></li>
-                <li><a href="#!">Woman</a></li>
-                <li><a href="#!">Man</a></li>
+                <li><a href="#">Fashion</a></li>
+                <li><a href="#">Style</a></li>
+                <li><a href="#">Woman</a></li>
+                <li><a href="#">Man</a></li>
               </ul>
             </div>
           </div>
@@ -116,7 +116,7 @@ const BlogSingleContent = () => {
               </div>
               <div className="author_info">
                 <h6 className="author_name">
-                  <a href="#!" className="mb-1 d-inline-block">Maria Redwood</a>
+                  <a href="#" className="mb-1 d-inline-block">Maria Redwood</a>
                 </h6>
                 <p>
                   Lorem Ipsum is simply dummy text of the printing and

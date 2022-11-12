@@ -70,7 +70,7 @@ const CartViewTwo = () => {
                                                             </div>
                                                         </td>
                                                         <td className="product_total">${data.price * (data.quantity || 1)}.00</td>
-                                                        <td className="product_remove"><a href="#!" onClick={() => rmProduct(data.id)} style={{ 'cursor': 'pointer' }}><i className="fa fa-trash text-danger"></i></a></td>
+                                                        <td className="product_remove"><a href="#" onClick={() => rmProduct(data.id)} style={{ 'cursor': 'pointer' }}><i className="fa fa-trash text-danger"></i></a></td>
                                                     </tr>
                                                 ))}
 

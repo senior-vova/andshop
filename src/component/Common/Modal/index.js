@@ -92,7 +92,7 @@ const MyVerticallyCenteredModal = (props) => {
                                                             </button>
                                                         </div>
                                                     </div>
-                                                    <a href="#!" className="theme-btn-one btn-black-overlay btn_sm" onClick={() => addToCart(props.data.id)}>Add To Cart</a>
+                                                    <a href="#" className="theme-btn-one btn-black-overlay btn_sm" onClick={() => addToCart(props.data.id)}>Add To Cart</a>
                                                 </div>
                                             </form>
                                             <div className="modal_share_icons_one">

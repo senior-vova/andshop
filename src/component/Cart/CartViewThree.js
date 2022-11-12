@@ -23,7 +23,7 @@ const CartViewThree = () => {
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td className="product_remove"><a href="#!"><i className="fa fa-trash"></i></a>
+                                                <td className="product_remove"><a href="#"><i className="fa fa-trash"></i></a>
                                                 </td>
                                                 <td className="product_thumb">
                                                     <Link to="product-details-one/1">
@@ -41,7 +41,7 @@ const CartViewThree = () => {
                                                 <td className="product_total">$130.00</td>
                                             </tr>
                                             <tr>
-                                                <td className="product_remove"><a href="#!"><i className="fa fa-trash"></i></a>
+                                                <td className="product_remove"><a href="#"><i className="fa fa-trash"></i></a>
                                                 </td>
                                                 <td className="product_thumb">
                                                     <Link to="product-details-one/1">
@@ -71,7 +71,7 @@ const CartViewThree = () => {
                                 <h3>Cart Total</h3>
                                 <div className="total_cart_inner">
                                     <h5>Shipping:</h5>
-                                    <form action="#!" id="total_cart_form_three">
+                                    <form action="#" id="total_cart_form_three">
                                         <label className="custom_boxed">Free Shipping <span className="rigth_cart">$0.00</span>
                                             <input type="radio" name="radio" />
                                             <span className="checkmark"></span>

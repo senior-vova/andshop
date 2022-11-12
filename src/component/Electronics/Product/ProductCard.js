@@ -23,9 +23,9 @@ const ProductCard = (props) => {
                         </Link>
                     </div>
                     <div className="product_button">
-                        <a href="#!" onClick={() => addToCart(props.data.id)}><i className="fa fa-shopping-bag"></i></a>
-                        <a href="#!" onClick={() => addToFav(props.data.id)}><i className="fa fa-heart"></i></a>
-                        <a href="#!" className="action quickview" title="Quick view" onClick={() => setModalShow(true)}><i className="fa fa-eye"></i></a>
+                        <a href="#" onClick={() => addToCart(props.data.id)}><i className="fa fa-shopping-bag"></i></a>
+                        <a href="#" onClick={() => addToFav(props.data.id)}><i className="fa fa-heart"></i></a>
+                        <a href="#" className="action quickview" title="Quick view" onClick={() => setModalShow(true)}><i className="fa fa-eye"></i></a>
                     </div>
                 </div>
                 <div className="product_detail">

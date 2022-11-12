@@ -1,7 +1,7 @@
 export const MenuData = [
     {
         name: "Home",
-        href: "#!",
+        href: "#",
         children: [
             {
                 name: "Fashion",
@@ -36,7 +36,7 @@ export const MenuData = [
     },
     {
         name: "Shop",
-        href: "#!",
+        href: "#",
         mega_menu: true,
         children: [
             {
@@ -121,7 +121,7 @@ export const MenuData = [
     },
     {
         name: "Feature",
-        href: "#!",
+        href: "#",
         children: [
             {
                 name: "Product Hover",
@@ -159,7 +159,7 @@ export const MenuData = [
     },
     {
         name: "Blog",
-        href: "#!",
+        href: "#",
         children: [
             {
                 name: " Blog Grid View One",
@@ -185,7 +185,7 @@ export const MenuData = [
     },
     {
         name: "Pages",
-        href: "#!",
+        href: "#",
         children: [
             {
                 name: "Vendor Dashboard",

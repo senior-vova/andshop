@@ -89,7 +89,7 @@ const Compare = () => {
                                                 <td className="first-column">Add to cart</td>
                                                 {
                                                     products.map((item, index) => (
-                                                        <td className="pro-addtocart" key={index}><a href="#!" onClick={() => addToCart(item.id)} className="theme-btn-one btn-black-overlay btn_sm"><span>ADD TO CART</span></a></td>
+                                                        <td className="pro-addtocart" key={index}><a href="#" onClick={() => addToCart(item.id)} className="theme-btn-one btn-black-overlay btn_sm"><span>ADD TO CART</span></a></td>
                                                     ))
                                                 }
                                             </tr>

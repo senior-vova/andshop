@@ -56,9 +56,9 @@ const HotItems = () => {
                                                 <span className="batch">{data.batch}</span>
                                                 <div className="pharmacy_product_icon">
                                                     <ul>
-                                                        <li><a href="#!"><i className="fa fa-eye"></i></a></li>
-                                                        <li><a href="#!"><i className="fa fa-shopping-cart"></i></a></li>
-                                                        <li><a href="#!"><i className="fa fa-heart"></i></a></li>
+                                                        <li><a href="#"><i className="fa fa-eye"></i></a></li>
+                                                        <li><a href="#"><i className="fa fa-shopping-cart"></i></a></li>
+                                                        <li><a href="#"><i className="fa fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>

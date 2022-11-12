@@ -47,7 +47,7 @@ const TopHeader = () => {
                                                 <ul className="custom_dropdown">
                                                     <li><Link to="/my-account"><i className="fa fa-tachometer"></i> Dashboard</Link></li>
                                                     <li><Link to="/my-account/customer-order"><i className="fa fa-cubes"></i> My Orders</Link></li>
-                                                    <li><Link to="#!" onClick={() => { logout() }} ><i className="fa fa-sign-out"></i> Logout</Link></li>
+                                                    <li><Link to="#" onClick={() => { logout() }} ><i className="fa fa-sign-out"></i> Logout</Link></li>
                                                 </ul>
                                             </li>
                                         </ul>

@@ -9,7 +9,7 @@ const NaveItems = (props) => {
         <>
             {props.item.mega_menu ? (
                 <li className="has-dropdown has-megaitem">
-                    <a href="#!">{props.item.name} <i className="fa fa-angle-down"></i></a>
+                    <a href="#">{props.item.name} <i className="fa fa-angle-down"></i></a>
                     <div className="mega-menu">
                         <ul className="mega-menu-inner">
                             {props.item.children.map((item, index) => (
@@ -36,7 +36,7 @@ const NaveItems = (props) => {
                 </li>
             ) : (
                 <li className="has-dropdown">
-                    <a href="#!" className="main-menu-link">{props.item.name} <i className="fa fa-angle-down"></i></a>
+                    <a href="#" className="main-menu-link">{props.item.name} <i className="fa fa-angle-down"></i></a>
                     <ul className="sub-menu">
                         {props.item.children.map((data, index) => (
                             <li key={index}>

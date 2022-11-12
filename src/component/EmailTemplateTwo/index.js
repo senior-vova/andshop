@@ -69,7 +69,7 @@ const EmailTemplateTWo = () => {
                                                         <img src={pro1} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -82,7 +82,7 @@ const EmailTemplateTWo = () => {
                                                         <img src={pro2} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -98,7 +98,7 @@ const EmailTemplateTWo = () => {
                                     <tbody>
                                         <tr align="center" className="add-with-banner">
                                             <td>
-                                                <a href="#!"><img src={banner1} alt="product" style={{ width: "100%" }} /></a>
+                                                <a href="#"><img src={banner1} alt="product" style={{ width: "100%" }} /></a>
                                             </td>
 
                                         </tr>
@@ -138,7 +138,7 @@ const EmailTemplateTWo = () => {
                                                                 </div>
                                                                 <div
                                                                     style={{ padding: "15px 0px", textTransform: "uppercase", fontSize: "11px", letterSpacing: "1px" }}>
-                                                                    <a href="#!"
+                                                                    <a href="#"
                                                                         style={{ color: "#ffffff", textDecoration: "none", background: "#000", padding: "8px 12px" }}>SHOP
                                                                         NOW</a>
                                                                 </div>
@@ -163,7 +163,7 @@ const EmailTemplateTWo = () => {
                                                                 </div>
                                                                 <div
                                                                     style={{ padding: "15px 0px", textTransform: "uppercase", fontSize: "11px", letterSpacing: "1px" }}>
-                                                                    <a href="#!"
+                                                                    <a href="#"
                                                                         style={{ color: "#ffffff", textDecoration: "none", background: "#000", padding: " 8px 12px" }}>SHOP
                                                                         NOW</a>
                                                                 </div>
@@ -195,7 +195,7 @@ const EmailTemplateTWo = () => {
                                                                 </div>
                                                                 <div
                                                                     style={{ padding: "15px 0px", textTransform: "uppercase", fontSize: "11px", letterSpacing: "1px" }}>
-                                                                    <a href="#!"
+                                                                    <a href="#"
                                                                         style={{ color: "#ffffff", textDecoration: "none", background: "#000", padding: "8px 12px" }}>SHOP
                                                                         NOW</a>
                                                                 </div>
@@ -222,22 +222,22 @@ const EmailTemplateTWo = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!"><img src={facebook} alt="img" /></a>
+                                                                <a href="#"><img src={facebook} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={youtube} alt="img" /></a>
+                                                                <a href="#"><img src={youtube} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={twitter} alt="img" /></a>
+                                                                <a href="#"><img src={twitter} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={gplus} alt="img" /></a>
+                                                                <a href="#"><img src={gplus} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={linkedin} alt="img" /></a>
+                                                                <a href="#"><img src={linkedin} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={pinterest} alt="img" /></a>
+                                                                <a href="#"><img src={pinterest} alt="img" /></a>
                                                             </td>
                                                         </tr>
                                                     </tbody>
@@ -247,7 +247,7 @@ const EmailTemplateTWo = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
+                                                                <a href="#" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -257,7 +257,7 @@ const EmailTemplateTWo = () => {
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
+                                                                <a href="#" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
                                                             </td>
                                                         </tr>
                                                     </tbody>

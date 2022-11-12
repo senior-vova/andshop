@@ -83,7 +83,7 @@ const EmailTemplateThree = () => {
                                                         <img src={pro1} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -96,7 +96,7 @@ const EmailTemplateThree = () => {
                                                         <img src={pro2} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -109,7 +109,7 @@ const EmailTemplateThree = () => {
                                                         <img src={pro3} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -122,7 +122,7 @@ const EmailTemplateThree = () => {
                                                         <img src={pro4} alt="product" style={{ width: "100%" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" >
+                                                        <a href="#" >
                                                             <h6>When an unknown.</h6>
                                                         </a>
                                                         <h4>$45.00</h4>
@@ -141,7 +141,7 @@ const EmailTemplateThree = () => {
                                     <tbody>
                                         <tr align="center" className="add-with-banner">
                                             <td>
-                                                <a href="#!"><img src={feature1} alt="product"
+                                                <a href="#"><img src={feature1} alt="product"
                                                     style={{ width: "100%" }} /></a>
                                             </td>
 
@@ -182,22 +182,22 @@ const EmailTemplateThree = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!"><img src={facebook} alt="img" /></a>
+                                                                <a href="#"><img src={facebook} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={youtube} alt="img" /></a>
+                                                                <a href="#"><img src={youtube} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={twitter} alt="img" /></a>
+                                                                <a href="#"><img src={twitter} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={gplus} alt="img" /></a>
+                                                                <a href="#"><img src={gplus} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={linkedin} alt="img" /></a>
+                                                                <a href="#"><img src={linkedin} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={pinterest} alt="img" /></a>
+                                                                <a href="#"><img src={pinterest} alt="img" /></a>
                                                             </td>
                                                         </tr>
                                                     </tbody>
@@ -207,7 +207,7 @@ const EmailTemplateThree = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
+                                                                <a href="#" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -217,7 +217,7 @@ const EmailTemplateThree = () => {
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
+                                                                <a href="#" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
                                                             </td>
                                                         </tr>
                                                     </tbody>

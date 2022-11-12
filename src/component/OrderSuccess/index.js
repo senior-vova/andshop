@@ -198,22 +198,22 @@ const OrderSuccess = () => {
                                     style={{ marginTop: "20px" }}>
                                     <tbody><tr>
                                         <td>
-                                            <a href="#!"><img src={facebook} alt="img" /></a>
+                                            <a href="#"><img src={facebook} alt="img" /></a>
                                         </td>
                                         <td>
-                                            <a href="#!"><img src={youtube} alt="img" /></a>
+                                            <a href="#"><img src={youtube} alt="img" /></a>
                                         </td>
                                         <td>
-                                            <a href="#!"><img src={twitter} alt="img" /></a>
+                                            <a href="#"><img src={twitter} alt="img" /></a>
                                         </td>
                                         <td>
-                                            <a href="#!"><img src={gplus} alt="img" /></a>
+                                            <a href="#"><img src={gplus} alt="img" /></a>
                                         </td>
                                         <td>
-                                            <a href="#!"><img src={linkedin} alt="img" /></a>
+                                            <a href="#"><img src={linkedin} alt="img" /></a>
                                         </td>
                                         <td>
-                                            <a href="#!"><img src={pinterest} alt="img" /></a>
+                                            <a href="#"><img src={pinterest} alt="img" /></a>
                                         </td>
                                     </tr>
                                     </tbody>
@@ -223,7 +223,7 @@ const OrderSuccess = () => {
                                     <tbody>
                                         <tr>
                                             <td>
-                                                <a href="#!" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
+                                                <a href="#" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -233,7 +233,7 @@ const OrderSuccess = () => {
                                         </tr>
                                         <tr>
                                             <td>
-                                                <a href="#!" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
+                                                <a href="#" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
                                             </td>
                                         </tr>
                                     </tbody>

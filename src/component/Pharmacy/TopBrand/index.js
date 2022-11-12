@@ -56,28 +56,28 @@ const TopBrand = () => {
                             <div className="pharmacy_top_brand_slider">
                                 <Slider {...settings}>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"><img src={img1} alt="img" /></a>
+                                        <a href="#"><img src={img1} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"><img src={img2} alt="img" /></a>
+                                        <a href="#"><img src={img2} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"><img src={img3} alt="img" /></a>
+                                        <a href="#"><img src={img3} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"> <img src={img4} alt="img" /></a>
+                                        <a href="#"> <img src={img4} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"><img src={img5} alt="img" /></a>
+                                        <a href="#"><img src={img5} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"> <img src={img6} alt="img" /></a>
+                                        <a href="#"> <img src={img6} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"> <img src={img7} alt="img" /></a>
+                                        <a href="#"> <img src={img7} alt="img" /></a>
                                     </div>
                                     <div className="partner_logo_pharmacy">
-                                        <a href="#!"> <img src={img8} alt="img" /></a>
+                                        <a href="#"> <img src={img8} alt="img" /></a>
                                     </div>
                                 </Slider>
                             </div>

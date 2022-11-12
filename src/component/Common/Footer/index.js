@@ -103,19 +103,19 @@ const Footer = () => {
                                 <div className="footer_left_side_icon">
                                     <ul>
                                         <li>
-                                            <a href="#!"><i className="fa fa-facebook-f"></i></a>
+                                            <a href="#"><i className="fa fa-facebook-f"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#!"><i className="fa fa-twitter"></i></a>
+                                            <a href="#"><i className="fa fa-twitter"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#!"><i className="fa fa-linkedin"></i></a>
+                                            <a href="#"><i className="fa fa-linkedin"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#!"><i className="fa fa-instagram"></i></a>
+                                            <a href="#"><i className="fa fa-instagram"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#!"><i className="fa fa-google"></i></a>
+                                            <a href="#"><i className="fa fa-google"></i></a>
                                         </li>
                                     </ul>
                                 </div>

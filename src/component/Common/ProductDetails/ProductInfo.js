@@ -107,17 +107,17 @@ const ProductInfo = () => {
                                                             <p>{data.date}</p>
                                                         </div>
                                                         <div className="post-share">
-                                                            <a href="#!" className="replay">{data.replay}</a>
-                                                            <a href="#!" className="">{data.report}</a>
+                                                            <a href="#" className="replay">{data.replay}</a>
+                                                            <a href="#" className="">{data.report}</a>
                                                         </div>
                                                     </div>
                                                     <div className="media-pragraph">
                                                         <div className="product_review_strat">
-                                                            <span><a href="#!"><i className="fa fa-star"></i></a></span>
-                                                            <span><a href="#!"><i className="fa fa-star"></i></a></span>
-                                                            <span><a href="#!"><i className="fa fa-star"></i></a></span>
-                                                            <span><a href="#!"><i className="fa fa-star"></i></a></span>
-                                                            <span><a href="#!"><i className="fa fa-star"></i></a></span>
+                                                            <span><a href="#"><i className="fa fa-star"></i></a></span>
+                                                            <span><a href="#"><i className="fa fa-star"></i></a></span>
+                                                            <span><a href="#"><i className="fa fa-star"></i></a></span>
+                                                            <span><a href="#"><i className="fa fa-star"></i></a></span>
+                                                            <span><a href="#"><i className="fa fa-star"></i></a></span>
                                                         </div>
                                                         <p>{data.para}</p>
                                                     </div>

@@ -47,7 +47,7 @@ const InstgramSlider = (props) => {
                   <Slider {...settings}>
                     {InstgramData.map((data, index) => (
                       <div className="instgram_post" key={index}>
-                        <a href="#!">
+                        <a href="#">
                           <i className={data.icon}></i>
                           <img src={data.img} alt="img" />
                         </a>
@@ -70,7 +70,7 @@ const InstgramSlider = (props) => {
                   <Slider {...settings}>
                     {InstgramData.map((data, index) => (
                       <div className="instgram_post" key={index}>
-                        <a href="#!">
+                        <a href="#">
                           <i className={data.icon}></i>
                           <img src={data.img} alt="img" />
                         </a>

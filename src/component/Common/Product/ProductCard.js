@@ -34,9 +34,9 @@ const ProductCard = (props) => {
                         <span className={(['hot','new','sale'][Math.round(Math.random()*2)])}>{props.data.labels}</span>
                     </span>
                     <div className="actions">
-                        <a href="#!" className="action wishlist" title="Wishlist" onClick={() => addToFav(props.data.id)}><AiOutlineHeart /></a>
-                        <a href="#!" className="action quickview" title="Quick view" onClick={() => setModalShow(true)}><AiOutlineExpand /></a>
-                        <a href="#!" className="action compare" title="Compare" onClick={() => addToComp(props.data.id)}><FaExchangeAlt /></a>
+                        <a href="#" className="action wishlist" title="Wishlist" onClick={() => addToFav(props.data.id)}><AiOutlineHeart /></a>
+                        <a href="#" className="action quickview" title="Quick view" onClick={() => setModalShow(true)}><AiOutlineExpand /></a>
+                        <a href="#" className="action compare" title="Compare" onClick={() => addToComp(props.data.id)}><FaExchangeAlt /></a>
                     </div>
                     <button type="button" className="add-to-cart offcanvas-toggle" onClick={() => addToCart(props.data.id)}>Add to cart</button>
                 </div>

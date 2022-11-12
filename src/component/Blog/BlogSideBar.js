@@ -102,31 +102,31 @@ const BlogSideBar = () => {
             <div className="category-post">
               <ul>
                 <li>
-                  <a href="#!" className="selected">All <span>(4)</span> </a>
+                  <a href="#" className="selected">All <span>(4)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Accesssories <span>(3)</span> </a>
+                  <a href="#">Accesssories <span>(3)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Box <span>(5)</span> </a>
+                  <a href="#">Box <span>(5)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">chair <span>(2)</span> </a>
+                  <a href="#">chair <span>(2)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Deco <span>(6)</span> </a>
+                  <a href="#">Deco <span>(6)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Furniture <span>(4)</span> </a>
+                  <a href="#">Furniture <span>(4)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Glass <span>(1)</span> </a>
+                  <a href="#">Glass <span>(1)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Sofa <span>(3)</span> </a>
+                  <a href="#">Sofa <span>(3)</span> </a>
                 </li>
                 <li>
-                  <a href="#!">Table <span>(4)</span> </a>
+                  <a href="#">Table <span>(4)</span> </a>
                 </li>
               </ul>
             </div>
@@ -155,13 +155,13 @@ const BlogSideBar = () => {
             <h3 className="sidebar-title">Tags</h3>
             <div className="sidebar-widget-tag d-inline-block">
               <ul>
-                <li><a href="#!">Food</a></li>
-                <li><a href="#!">Hungry</a></li>
-                <li><a href="#!">Water</a></li>
-                <li><a href="#!">Shool</a></li>
-                <li><a href="#!">Kids</a></li>
-                <li><a href="#!">Children</a></li>
-                <li><a href="#!">selter</a></li>
+                <li><a href="#">Food</a></li>
+                <li><a href="#">Hungry</a></li>
+                <li><a href="#">Water</a></li>
+                <li><a href="#">Shool</a></li>
+                <li><a href="#">Kids</a></li>
+                <li><a href="#">Children</a></li>
+                <li><a href="#">selter</a></li>
               </ul>
             </div>
           </div>

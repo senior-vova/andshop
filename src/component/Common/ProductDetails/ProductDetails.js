@@ -119,15 +119,15 @@ const ProductDetailsOne = () => {
                                     <div className="links_Product_areas">
                                         <ul>
                                             <li>
-                                                <a href="#!" className="action wishlist" title="Wishlist" onClick={() => addToFav(product.id)}><i
+                                                <a href="#" className="action wishlist" title="Wishlist" onClick={() => addToFav(product.id)}><i
                                                     className="fa fa-heart"></i>Add To Wishlist</a>
                                             </li>
                                             <li>
-                                                <a href="#!" className="action compare" onClick={() => addToComp(product.id)} title="Compare"><i
+                                                <a href="#" className="action compare" onClick={() => addToComp(product.id)} title="Compare"><i
                                                     className="fa fa-exchange"></i>Add To Compare</a>
                                             </li>
                                         </ul>
-                                        <a href="#!" className="theme-btn-one btn-black-overlay btn_sm" onClick={() => addToCart(product.id)}>Add To Cart</a>
+                                        <a href="#" className="theme-btn-one btn-black-overlay btn_sm" onClick={() => addToCart(product.id)}>Add To Cart</a>
                                     </div>
 
                                 </div>

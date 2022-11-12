@@ -25,7 +25,7 @@ const TotalCart = (props) => {
                                 <p>Shipping</p>
                                 <p className="cart_amount"><span>Flat Rate:</span> $00</p>
                             </div>
-                            <a href="#!">Calculate shipping</a>
+                            <a href="#">Calculate shipping</a>
 
                             <div className="cart_subtotal">
                                 <p>Total</p>
@@ -53,7 +53,7 @@ const TotalCart = (props) => {
                                 <p>Shipping</p>
                                 <p className="cart_amount"><span>Flat Rate:</span> $00</p>
                             </div>
-                            <a href="#!">Calculate shipping</a>
+                            <a href="#">Calculate shipping</a>
 
                             <div className="cart_subtotal">
                                 <p>Total</p>

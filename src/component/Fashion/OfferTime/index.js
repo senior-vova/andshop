@@ -57,7 +57,7 @@ import React, { useEffect ,useRef ,useState} from 'react'
                             <p>
                                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro quisquam, odit assumenda sit modi commodi esse necessitatibus temporibus aperiam veritatis eveniet!
                             </p>
-                            <a href="#!" className="theme-btn-one bg-black btn_md">View More</a>
+                            <a href="#" className="theme-btn-one bg-black btn_md">View More</a>
                         </div>
                     </div>
                 </div>

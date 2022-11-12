@@ -20,13 +20,13 @@ const SingleCommentArea = () => {
               <div className="comment_content">
                 <div className="d-flex">
                   <div className="meta_data">
-                    <h6><a href="#!">Alden Smith</a></h6>
+                    <h6><a href="#">Alden Smith</a></h6>
                     <div className="comment-time">
                       MARCH 5, 2018, 6:05 PM
                     </div>
                   </div>
                   <div className="ml-auto">
-                    <a href="#!" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
+                    <a href="#" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
                   </div>
                 </div>
                 <p>
@@ -46,13 +46,13 @@ const SingleCommentArea = () => {
                   <div className="comment_content">
                     <div className="d-flex align-items-md-center">
                       <div className="meta_data">
-                        <h6><a href="#!">Daisy Lana</a></h6>
+                        <h6><a href="#">Daisy Lana</a></h6>
                         <div className="comment-time">
                           april 8, 2018, 5:15 PM
                         </div>
                       </div>
                       <div className="ml-auto">
-                        <a href="#!" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
+                        <a href="#" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
                       </div>
                     </div>
                     <p>
@@ -75,13 +75,13 @@ const SingleCommentArea = () => {
               <div className="comment_content">
                 <div className="d-flex">
                   <div className="meta_data">
-                    <h6><a href="#!">John Becker</a></h6>
+                    <h6><a href="#">John Becker</a></h6>
                     <div className="comment-time">
                       april 15, 2018, 10:30 PM
                     </div>
                   </div>
                   <div className="ml-auto">
-                    <a href="#!" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
+                    <a href="#" className="comment-reply"><i className="ion-reply-all"></i>Reply</a>
                   </div>
                 </div>
                 <p>

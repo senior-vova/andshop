@@ -90,7 +90,7 @@ const Instagram = () => {
                                 <Slider {...settings}>
                                     {InstagramData.map((data, index) => (
                                         <div className="instgram_post" key={index}>
-                                            <a href="#!">
+                                            <a href="#">
                                                 <i className="fa fa-instagram"></i>
                                                 <img src={data.img} alt="img" />
                                             </a>

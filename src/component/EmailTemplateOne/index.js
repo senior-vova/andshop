@@ -80,7 +80,7 @@ const EmailTemplateOne = () => {
                                                             style={{ width: "170px" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" style={{ textAlign: "center" }}>
+                                                        <a href="#" style={{ textAlign: "center" }}>
                                                             <h6 style={{ textAlign: "center" }}>When an unknown.</h6>
                                                         </a>
                                                         <h4 style={{ textAlign: "center" }}>$45.00</h4>
@@ -94,7 +94,7 @@ const EmailTemplateOne = () => {
                                                             style={{ width: "170px" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" style={{ textAlign: "center" }}>
+                                                        <a href="#" style={{ textAlign: "center" }}>
                                                             <h6 style={{ textAlign: "center" }}>When an unknown.</h6>
                                                         </a>
                                                         <h4 style={{ textAlign: "center" }}>$45.00</h4>
@@ -108,7 +108,7 @@ const EmailTemplateOne = () => {
                                                             style={{ width: "170px" }} />
                                                     </div>
                                                     <div className="product-info">
-                                                        <a href="#!" style={{ textAlign: "center" }}>
+                                                        <a href="#" style={{ textAlign: "center" }}>
                                                             <h6 style={{ textAlign: "center" }}>When an unknown.</h6>
                                                         </a>
                                                         <h4 style={{ textAlign: "center" }}>$45.00</h4>
@@ -125,7 +125,7 @@ const EmailTemplateOne = () => {
                                     <tbody>
                                         <tr align="center">
                                             <td>
-                                                <a href="#!"><img src={cosmetic} style={{ width: "100%" }} alt="img" /></a>
+                                                <a href="#"><img src={cosmetic} style={{ width: "100%" }} alt="img" /></a>
                                             </td>
                                         </tr>
 
@@ -135,10 +135,10 @@ const EmailTemplateOne = () => {
                                     <tbody>
                                         <tr align="center" className="add-with-banner">
                                             <td>
-                                                <a href="#!"><img src={img2} style={{ width: "100%" }} alt="img" /></a>
+                                                <a href="#"><img src={img2} style={{ width: "100%" }} alt="img" /></a>
                                             </td>
                                             <td>
-                                                <a href="#!"><img src={img3} style={{ width: "100%" }} alt="img" /></a>
+                                                <a href="#"><img src={img3} style={{ width: "100%" }} alt="img" /></a>
                                             </td>
                                         </tr>
 
@@ -157,22 +157,22 @@ const EmailTemplateOne = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!"><img src={facebook} alt="img" /></a>
+                                                                <a href="#"><img src={facebook} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={youtube} alt="img" /></a>
+                                                                <a href="#"><img src={youtube} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={twitter} alt="img" /></a>
+                                                                <a href="#"><img src={twitter} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={gplus} alt="img" /></a>
+                                                                <a href="#"><img src={gplus} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={linkedin} alt="img" /></a>
+                                                                <a href="#"><img src={linkedin} alt="img" /></a>
                                                             </td>
                                                             <td>
-                                                                <a href="#!"><img src={pinterest} alt="img" /></a>
+                                                                <a href="#"><img src={pinterest} alt="img" /></a>
                                                             </td>
                                                         </tr>
                                                     </tbody>
@@ -182,7 +182,7 @@ const EmailTemplateOne = () => {
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
+                                                                <a href="#" style={{ fontSize: "13px" }}>Want to change how you receive these emails?</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -192,7 +192,7 @@ const EmailTemplateOne = () => {
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a href="#!" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
+                                                                <a href="#" style={{ fontSize: "13px", margin: "0", textDecoration: "underline" }}>Unsubscribe</a>
                                                             </td>
                                                         </tr>
                                                     </tbody>

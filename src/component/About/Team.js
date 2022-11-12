@@ -47,11 +47,11 @@ const Team = (props) => {
                                 <h4 className="team-name font--bold">{data.name}</h4>
                                 <span className="team-title">{data.posation}</span>
                                 <ul className="team-social pos-absolute">
-                                    <li><a href="#!"><i className="fa fa-facebook-f"></i></a></li>
-                                    <li><a href="#!"><i className="fa fa-twitter"></i></a></li>
-                                    <li><a href="#!"><i className="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#!"><i className="fa fa-instagram"></i></a></li>
-                                    <li><a href="#!"><i className="fa fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-google-plus-g"></i></a></li>
                                 </ul>
                             </div>
                         </div>

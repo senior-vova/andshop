@@ -71,7 +71,7 @@ const FeaturedProducts = () => {
                                                 <h6><Link to="/shopTwo">{data.title}</Link></h6>
                                                 <span className="product_status">{data.stock}</span>
                                                 <div className="sp_cart_wrap">
-                                                    <form action="#!">
+                                                    <form action="#">
                                                         <div className="cart_plus_minus">
                                                             <input type="text" value="1" />
                                                             <div className="dec qtybutton">-</div>

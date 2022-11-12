@@ -35,7 +35,7 @@ const TopLogin = () => {
                     <h3>
                         <i className="fa fa-file mr-2"></i>
                         Returning customer?
-                        <a className="Returning  ml-2" href="#!" data-toggle="collapse" data-target="#checkout_login"
+                        <a className="Returning  ml-2" href="#" data-toggle="collapse" data-target="#checkout_login"
                             aria-expanded="true">Click here to login</a>
                     </h3>
                     <div id="checkout_login" className="collapse" data-parent="#checkout_login">
@@ -59,7 +59,7 @@ const TopLogin = () => {
                                         <span>Remember me</span>
                                     </label>
                                 </div>
-                                <a href="#!">Lost your password?</a>
+                                <a href="#">Lost your password?</a>
                             </form>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ const TopLogin = () => {
                     <h3>
                         <i className="fa fa-file mr-2"></i>
                         Enter your voucher code
-                        <a className="Returning ml-2" href="#!" data-toggle="collapse" data-target="#checkout_coupon"
+                        <a className="Returning ml-2" href="#" data-toggle="collapse" data-target="#checkout_coupon"
                             aria-expanded="true">Click here to enter your code</a>
                     </h3>
                     <div id="checkout_coupon" className="collapse checkout_coupon" data-parent="#checkout_coupon">
